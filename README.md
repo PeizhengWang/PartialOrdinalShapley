@@ -30,11 +30,12 @@ $ python3 main.py --dataset_name cancer --tol 0.05 --start_run 0 --num_run 5 --n
 ## Reference
 If you find our code useful for your research, please cite our paper.
 ```
-@inproceedings{
-liu2024partialshapley,
-title={Data valuation: The partial ordinal Shapley value for machine learning},
-author={Jie Liu and Peizheng Wang and Chao Wu},
-booktitle={},
-year={2024}
+@misc{liu2023data,
+      title={Data valuation: The partial ordinal Shapley value for machine learning}, 
+      author={Jie Liu and Peizheng Wang and Chao Wu},
+      year={2023},
+      eprint={2305.01660},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
